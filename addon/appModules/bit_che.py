@@ -1,3 +1,5 @@
+# -*- coding: UTF-8 -*-
+
 import appModuleHandler
 import controlTypes
 import api
