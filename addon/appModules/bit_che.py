@@ -16,12 +16,11 @@ class ResultsList(List):
 		#self.children=childList
 		# move the focus on the real list
 		childList.setFocus()
-		api.setFocusObject(childList)
+		obj=api.getNavigatorObject()
+		obj.setFocus()
+		api.setFocusObject(obj)
 
 class ResultListItem(ListItem):
-
-	#def event_gainFocus(self):
-		#super(ResultListItem, self).event_gainFocus()
 
 	def script_contextMenu(self, gesture):
 		api.moveMouseToNVDAObject(self)
