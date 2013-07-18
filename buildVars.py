@@ -22,7 +22,7 @@ Bit Che is a simple tool that quickly searches popular bit torrent sites for fil
 You can get more information about this program at
 http://www.convivea.com"""),
 	# version
-	"addon-version" : "1.0-dev",
+	"addon-version" : "1.1-dev",
 	# Author(s)
 	"addon-author" : "Alberto Zanella <lapostadialberto@gmail.com>, Alberto Buffolino <a.buffolino@gmail.com>",
 	# URL for the add-on documentation support
