@@ -9,18 +9,13 @@ class ResultsList(List):
 
 	def event_gainFocus(self):
 		# the real list of results
-		childList=self.children[0]
-		# adjust the object properties
-		self.name=childList.name
-		self.role=childList.role
-		self.children=childList
+		#childList=self.children[0]
+		childList = self.simpleFirstChild
 		# move the focus on the real list
 		childList.setFocus()
+		super(ResultsList, self).event_gainFocus()
 
 class ResultListItem(ListItem):
-
-	def event_gainFocus(self):
-		super(ResultListItem, self).event_gainFocus()
 
 	def script_contextMenu(self, gesture):
 		api.moveMouseToNVDAObject(self)
