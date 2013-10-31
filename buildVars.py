@@ -13,14 +13,11 @@ addon_info = {
 	# add-on Name, internal for nvda
 	"addon-name" : "BitChe",
 	# Add-on summary, usually the user visible name of the addon.
-	# TRANSLATORS: Summary for this add-on to be shown on installation and add-on information.
+	# TRANSLATORS: user visible addon name to be shown on installation and add-on information.
 	"addon-summary" : _("Bit Che"),
 	# Add-on description
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-	"addon-description" : _("""Improves the accessibility of Bit Che with NVDA.
-Bit Che is a simple tool that quickly searches popular bit torrent sites for files.
-You can get more information about this program at
-http://www.convivea.com"""),
+	"addon-description" : _("Improves the accessibility of Bit Che, a torrent searching client with NVDA."),
 	# version
 	"addon-version" : "1.1-dev",
 	# Author(s)
