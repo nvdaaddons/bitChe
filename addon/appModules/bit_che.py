@@ -30,6 +30,7 @@ class ResultListItem(ListItem):
 
 	__gestures = {
 		"kb:applications": "contextMenu",
+		"kb:shift+F10": "contextMenu",
 	}
 
 class AppModule(appModuleHandler.AppModule):
