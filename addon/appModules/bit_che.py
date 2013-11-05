@@ -16,6 +16,9 @@ class ResultsList(List):
 		self.children=childList
 		# move the focus on the real list
 		childList.setFocus()
+		obj=api.getNavigatorObject()
+		obj.setFocus()
+		api.setFocusObject(obj)
 
 class ResultListItem(ListItem):
 
