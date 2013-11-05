@@ -7,6 +7,9 @@ Puoi ottenere maggiori informazioni su questo programma a [questa pagina][1].
 
 Questo componente aggiuntivo per NVDA migliora l'accessibilit&agrave; del software.
 
+## Cambiamenti per 1.3 ##
+*	 Aggiunta la funzione onInstall, per controllare se &egrave; presente una vecchia versione, e rimuoverla.
+
 ## Cambiamenti per 1.2 ##
 *	 Inserita la gesture shift+F10, in aggiunta ad applicazioni, utile in VM.
 
