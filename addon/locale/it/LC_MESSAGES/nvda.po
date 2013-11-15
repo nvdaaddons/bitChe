@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 'bitChe' '1.3-dev'\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-02 21:02+0100\n"
-"PO-Revision-Date: 2013-11-02 21:03+0100\n"
+"POT-Creation-Date: 2013-11-15 21:16+0100\n"
+"PO-Revision-Date: 2013-11-15 21:17+0100\n"
 "Last-Translator: Alberto Buffolino <a.buffolino@gmail.com>\n"
 "Language-Team: Alberto buffolino <a.buffolino@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -27,11 +27,15 @@ msgstr "Bit Che"
 msgid "Improves the accessibility of Bit Che, a torrent searching client with NVDA."
 msgstr "Migliora l'accessibilità con NVDA di Bit Che, un client per la ricerca dei torrent."
 
+#: ..\..\..\../buildVars.py:24
+msgid "Alberto Zanella <lapostadialberto@gmail.com>, Alberto Buffolino <a.buffolino@gmail.com>, other contributors"
+msgstr "Alberto Zanella <lapostadialberto@gmail.com>, Alberto Buffolino <a.buffolino@gmail.com>, altri collaboratori"
+
 #: ..\..\..\../addon/installTasks.py:14
-msgid "You have installed the BitChe add-on, an old and incompatible version with this one. Do you want to uninstall the old version?"
-msgstr "Hai installato il componente aggiuntivo BitChe, una versione vecchia e incompatibile. Vuoi rimuoverla?"
+msgid "You have installed an old and incompatible version of this add-on. Do you want to uninstall the old version?"
+msgstr "Hai installato una versione vecchia e incompatibile di questo componente aggiuntivo. Vuoi rimuoverla?"
 
 #: ..\..\..\../addon/installTasks.py:16
-msgid "Uninstall incompatible add-on"
-msgstr "Disinstalla il componente aggiuntivo incompatibile"
+msgid "Uninstall old add-on"
+msgstr "Disinstalla il vecchio componente aggiuntivo"
 

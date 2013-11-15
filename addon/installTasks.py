@@ -11,9 +11,9 @@ def onInstall():
 		if addon.manifest['name'] == "BitChe":
 			if gui.messageBox(
 				# Translators: the label of a message box dialog.
-				_("You have installed the BitChe add-on, an old and incompatible version with this one. Do you want to uninstall the old version?"),
+				_("You have installed an old and incompatible version of this add-on. Do you want to uninstall the old version?"),
 				# Translators: the title of a message box dialog.
-				_("Uninstall incompatible add-on"),
+				_("Uninstall old add-on"),
 				wx.YES|wx.NO|wx.ICON_WARNING) == wx.YES:
 					addon.requestRemove()
 			break

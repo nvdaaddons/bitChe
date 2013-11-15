@@ -1,6 +1,6 @@
 # Bit Che #
 *	 Authors: Alberto Zanella, Alberto Buffolino, other contributors.
-*	 download [version 1.1][1]
+*	 download [version 1.3][1]
 
 Bit Che is a simple tool that quickly searches popular bit torrent sites for files.
 You can get more information about this program at [this page][2].
