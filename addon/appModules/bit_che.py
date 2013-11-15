@@ -9,7 +9,7 @@ class ResultsList(List):
 
 	def event_gainFocus(self):
 		# the real list of results
-		childList=self.children[0]
+		childList = self.simpleFirstChild
 		# adjust the object properties
 		self.name=childList.name
 		self.role=childList.role
