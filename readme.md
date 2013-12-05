@@ -1,6 +1,7 @@
 # Bit Che #
 *	 Authors: Alberto Zanella, Alberto Buffolino, other contributors.
-*	 download [version 1.3][1]
+*	 download [stable version][1]
+*	 download [development version][3]
 
 Bit Che is a simple tool that quickly searches popular bit torrent sites for files.
 You can get more information about this program at [this page][2].
@@ -14,6 +15,8 @@ This NVDA addon improves the accessibility of the software. It adds the followin
 *	 You can use up and down arrow keys to focus the result on you want to interact
 *	 When the first search after starting Bit Che is finished, the first result will be focused, though it may not be selected properly. NVDA will speak the selected result. Use the usual commands or the previous procedure to perform actions on the current results list.
 
+## Changes for 1.4 ##
+*	 Added download link for development version.
 ## Changes for 1.3 ##
 *	 Added onInstall function, to check if an older version is present, and remove it.
 
@@ -28,3 +31,4 @@ This NVDA addon improves the accessibility of the software. It adds the followin
 
 [1]: http://addons.nvda-project.org/files/get.php?file=bc
 [2]: http://www.convivea.com
+[3]: http://addons.nvda-project.org/files/get.php?file=bc-dev
