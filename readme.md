@@ -17,6 +17,7 @@ This NVDA addon improves the accessibility of the software. It adds the followin
 
 ## Changes for 1.4 ##
 *	 Added download link for development version.
+
 ## Changes for 1.3 ##
 *	 Added onInstall function, to check if an older version is present, and remove it.
 
