@@ -8,12 +8,17 @@ You can get more information about this program at [this page][2].
 
 This NVDA addon improves the accessibility of the software. It adds the following features:
 
-- Makes accessible the search results list: you will need to use objects navigation if the addon is not installed.
-- Allows to use Applications key to activate the context menu on the focused result, since this can only be performed with mouse commands.
+- Makes the search results list accessible.
+- Enables you to use the Application key to activate the context menu on the focused result.
+
 
 ## Notes ##
-*	 You can use up and down arrow keys to focus the result on you want to interact
-*	 When the first search after starting Bit Che is finished, the first result will be focused, though it may not be selected properly. NVDA will speak the selected result. Use the usual commands or the previous procedure to perform actions on the current results list.
+*	 You can use the up and down arrow keys to focus the search result which should be interacted with.
+*	 When the first search performed after starting Bit Che is finnished, the first result will be focused, though it may not be selected properly. NVDA will speak the selected result. Use the usual commands or the arrow keys to ensure the right item is selected before performing other actions.
+
+
+## Key Commands ##
+*	Application key, or shift+f10, open context menu for search result item.
 
 ## Changes for 1.4 ##
 *	 Added download link for development version.
@@ -31,5 +36,7 @@ This NVDA addon improves the accessibility of the software. It adds the followin
 *	 Initial version.
 
 [1]: http://addons.nvda-project.org/files/get.php?file=bc
+
 [2]: http://www.convivea.com
+
 [3]: http://addons.nvda-project.org/files/get.php?file=bc-dev
