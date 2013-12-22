@@ -3,24 +3,24 @@
 *	 डाउनलोड [स्थिर संस्करण][1]
 *	 डाउनलोड [विकास संस्करण][3]
 
-Bit Che is a simple tool that quickly searches popular bit torrent sites for
-files.  You can get more information about this program at [this page][2].
+Bit Che तुरुन्तै bit torrent साइटहरुका फाइलहरूको खोजी  गर्ने एउटा साधारण
+औजार हो । तपाइले यो कार्यक्रम सम्बन्धी थप जानकारी [पृष्ठ][2] बाट पाउनु हुनेछ
+।
 
-This NVDA addon improves the accessibility of the software. It adds the
-following features:
+यो नेत्रवाणी थप-साधनले उक्त यन्त्रप्राणको पहुँचमा बृद्धि पुर्‍याउने छ ।
+यसले निम्न सुविधा थप गर्ने छ:
 
-- Makes the search results list accessible.  - Enables you to use the
-Application key to activate the context menu on the focused result.
+- अन्वेषण नतिजा  सूचीको पहुँच सम्भव हुन्छ ।  - तपाइलाई अनुप्रयोग
+कुञ्जीद्वारा केन्द्रित मेनुको पहुँच उपलब्ध गराउँछ 
 
 
 ## टिप्पणी ##
-*	 You can use the up and down arrow keys to focus the search result which
-   should be interacted with.
-*	 When the first search performed after starting Bit Che is finished, the
-   first result will be focused, though it may not be selected
-   properly. NVDA will speak the selected result. Use the usual commands or
-   the arrow keys to ensure the right item is selected before performing
-   other actions.
+*	 तपाइले तल/माथि वाण कुञ्जीको प्रयोग गरी अन्वेषण नतिजा सुचीमा विचरण गर्न
+   सक्नु हुन्छ ।
+*	 Bit Che सुरुवात भए पछिको पहिलो  अन्वेषण सकिना साथ पहिलो नतिजा मा
+   केन्द्रित हुनेछ । तर यो राम्ररी चयनित नभएको हुन पनि सक्छ ।नेत्रवाणीले
+   चयनित नतिजालाई वाचन गर्ने छ । अरू कार्य गर्नु भन्दा पहिले नियमित तरिकाले
+   वाण कुञ्जिहरूको प्रयोग गरी चयनको यकिन गर्नु होस् ।
 
 
 ## कुञ्जी आदेश ##
