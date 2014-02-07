@@ -44,6 +44,8 @@ avaamisen sovellusnäppäimellä aktiivisen tuloksen kohdalla.
 ## Muutokset versiossa 1.0 ##
 *	 Ensimmäinen versio.
 
+[[!tag dev stable]]
+
 [1]: http://addons.nvda-project.org/files/get.php?file=bc
 
 [2]: http://www.convivea.com

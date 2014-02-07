@@ -45,6 +45,8 @@ resultado enfocado.
 ## Cambios para 1.0 ##
 *	 Versión inicial.
 
+[[!tag dev stable]]
+
 [1]: http://addons.nvda-project.org/files/get.php?file=bc
 
 [2]: http://www.convivea.com

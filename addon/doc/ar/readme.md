@@ -42,6 +42,8 @@
 ## مستجدات الإصدار 1.0 ##
 *	 إصدار أولي
 
+[[!tag dev stable]]
+
 [1]: http://addons.nvda-project.org/files/get.php?file=bc
 
 [2]: http://www.convivea.com

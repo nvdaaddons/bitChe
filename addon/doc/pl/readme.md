@@ -44,6 +44,8 @@ klawisza aplikacji aby aktywować menu kontekstowe na podświetlonym wyniku.
 ## Zmiany dla wersji 1.0 ##
 *	 Pierwsza wersja.
 
+[[!tag dev stable]]
+
 [1]: http://addons.nvda-project.org/files/get.php?file=bc
 
 [2]: http://www.convivea.com

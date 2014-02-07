@@ -45,6 +45,8 @@ tecla de aplicações para ativar o menu de contexto no resultado com foco.
 ## Mudanças na 1.0 ##
 *	 Versão inicial.
 
+[[!tag dev stable]]
+
 [1]: http://addons.nvda-project.org/files/get.php?file=bc
 
 [2]: http://www.convivea.com

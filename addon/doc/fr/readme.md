@@ -48,6 +48,8 @@ résultat mis en focus.
 ## Changements pour la version 1.0 ##
 *	 Première version.
 
+[[!tag dev stable]]
+
 [1]: http://addons.nvda-project.org/files/get.php?file=bc
 
 [2]: http://www.convivea.com

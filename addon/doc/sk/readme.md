@@ -1,7 +1,7 @@
 # Bit Che #
 *	 Vytvorili: Alberto Zanella, Alberto Buffolino a ďalší.
-*	 Stiahnuť [stabilná verzia][1]
-*	 stiahnuť [vývojová version][3]
+*	 Stiahnuť [stabilnú verziu][1]
+*	 stiahnuť [vývojovú verziu][3]
 
 Bit Che je nástroj, ktorý prehľadáva populárne bit torrent stránky. Viac
 informácii o programe zistíte na [tejto stránke][2].
@@ -37,6 +37,8 @@ menu na vybratom výsledku.
 
 ## Zmeny vo verzii 1.0 ##
 *	 Prvé vydanie.
+
+[[!tag dev stable]]
 
 [1]: http://addons.nvda-project.org/files/get.php?file=bc
 

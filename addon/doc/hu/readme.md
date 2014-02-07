@@ -44,6 +44,8 @@ az alkalmazás gombot aktiválhatja a fókuszban lévő elem helyi menüjét.
 ## Az 1.0 változásai ##
 *	 Első kiadás
 
+[[!tag dev stable]]
+
 [1]: http://addons.nvda-project.org/files/get.php?file=bc
 
 [2]: http://www.convivea.com
