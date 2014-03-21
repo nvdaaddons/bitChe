@@ -1,28 +1,27 @@
 # Bit Che #
-*	 Auteurs : Alberto Zanella, Alberto Buffolino, et d'autres contributeurs
-   de NVDA.
+*	 Auteurs : Alberto Zanella, Alberto Buffolino, et d'autres contributeurs.
 *	 Télécharger [version stable][1]
 *	 Télécharger [version de développement][3]
 
-Bit Che est un outil simple qui recherche rapidement les sites populaire de
-bit torrent pour les fichiers. Vous pouvez obtenir plus d'informations sur
+Bit Che est un outil simple qui recherche rapidement les fichiers sur les
+sites populaires de bit torrent. Vous pouvez obtenir plus d'informations sur
 ce programme à [cette page][2].
 
-Se module complémentaire pour NVDA améliore l'accessibilité du logiciel. Il
+Ce module complémentaire pour NVDA améliore l'accessibilité du logiciel. Il
 ajoute les fonctionnalités suivantes :
 
-- Rend les résultats de la liste de recherche accessible.  -Permet
+- Rend les résultats de la liste de recherche accessibles.  - Permet
 d'utiliser la touche  Application pour activer le menu contextuel sur le
 résultat mis en focus.
 
 
 ## Remarques ##
-*	 Vous pouvez utiliser les flèches haut ou bas pour placer le focus dans le
-   résultat de la recherche qui doit interagir avec celle-ci.
-*	 Lors de la première recherche effectuée après que le démarrage de Bit Che
-   est terminé, le premier résultat sera mis en focus, bien qu'elle ne peut
-   pas être sélectionnée correctement. NVDA prendra la parole du résultat
-   sélectionné. Utiliser les commandes habituelles ou les touches de
+*	 Vous pouvez utiliser les flèches haut ou bas pour placer le focus sur le
+   résultat de recherche avec lequel vous voulez interagir.
+*	 Lors de la première recherche effectuée après le démarrage de Bit Che, le
+   premier résultat sera mis en focus, bien qu'il puisse ne pas être
+   sélectionné correctement. NVDA annoncera le résultat
+   sélectionné. Utilisez les commandes habituelles ou les touches de
    direction pour s'assurer que l'élément correct soit sélectionné avant
    d'effectuer d'autres actions.
 
