@@ -19,7 +19,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon-description" : _("Improves the accessibility of Bit Che, a torrent searching client with NVDA."),
 	# version
-	"addon-version" : "1.5",
+	"addon-version" : "1.6-dev",
 	# Author(s)
 	"addon-author" : _("Alberto Zanella <lapostadialberto@gmail.com>, Alberto Buffolino <a.buffolino@gmail.com>, other contributors"),
 	# URL for the add-on documentation support
