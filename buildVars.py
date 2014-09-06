@@ -9,21 +9,23 @@ _ = lambda x : x
 # Add-on information variables
 addon_info = {
 	# for previously unpublished addons, please follow the community guidelines at:
-	# https://bitbucket.org/nvdaaddonteam/todo/src/56140dbec531e4d7591338e1dbc6192f3dd422a8/guideLines.txt
+	# https://bitbucket.org/nvdaaddonteam/todo/raw/master/guideLines.txt
 	# add-on Name, internal for nvda
-	"addon-name" : "bitChe",
+	"addon_name" : "bitChe",
 	# Add-on summary, usually the user visible name of the addon.
-	# TRANSLATORS: user visible addon name to be shown on installation and add-on information.
-	"addon-summary" : _("Bit Che"),
+	# Translators: Summary for this add-on to be shown on installation and add-on information.
+	"addon_summary" : _("Bit Che"),
 	# Add-on description
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-	"addon-description" : _("Improves the accessibility of Bit Che, a torrent searching client with NVDA."),
+	"addon_description" : _("Improves the accessibility of Bit Che, a torrent searching client with NVDA."),
 	# version
-	"addon-version" : "1.5",
+	"addon_version" : "2.0",
 	# Author(s)
-	"addon-author" : _("Alberto Zanella <lapostadialberto@gmail.com>, Alberto Buffolino <a.buffolino@gmail.com>, other contributors"),
+	"addon_author" : u"Alberto Zanella <lapostadialberto@gmail.com>, Alberto Buffolino <a.buffolino@gmail.com>, other contributors",
 	# URL for the add-on documentation support
-	"addon-url" : "http://addons.nvda-project.org"
+	"addon_url" : "http://addons.nvda-project.org",
+	# Documentation file name
+	"addon_docFileName" : "readme.html",
 }
 
 
@@ -34,7 +36,7 @@ import os.path
 pythonSources = [os.path.join("addon", "appModules", "*.py"), os.path.join("addon", "installTasks.py")]
 
 # Files that contain strings for translation. Usually your python sources
-i18nSources = pythonSources + ["buildVars.py", "docHandler.py"]
+i18nSources = pythonSources + ["buildVars.py"]
 
 # Files that will be ignored when building the nvda-addon file
 # Paths are relative to the addon directory, not to the root directory of your addon sources.
