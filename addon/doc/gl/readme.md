@@ -29,6 +29,14 @@ tecla aplicacións para activar o menú de contexto no resultado enfocado.
 *	Tecla aplicacións, ou shift+f10, abre o menú de contexto para o elemento
   dos resultados da busca.
 
+
+## Cambios para 2.0 ##
+* A axuda deste complemento está dispoñible dende  o Administrador de
+  complementos.
+
+## Cambios para 1.5 ##
+* Actualizacións da traducción.
+
 ## Cambios para 1.4 ##
 *	 Engadida unha liga de descarga para a versión de desenvolvemento.
 

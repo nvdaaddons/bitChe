@@ -28,6 +28,13 @@ tecla de aplicações para ativar o menu de contexto no resultado com foco.
 *	Tecla de aplicações, ou shift+f10, abre o menu de contexto para o item de
   resultado de busca.
 
+
+## Changes for 2.0 ##
+* Add-on help is available from the Add-ons Manager.
+
+## Changes for 1.5 ##
+* Translation updates.
+
 ## Mudanças na 1.4 ##
 *	 Adicionado linque para versão de desenvolvimento.
 

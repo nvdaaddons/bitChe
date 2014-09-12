@@ -27,6 +27,13 @@ avaamisen sovellusnäppäimellä aktiivisen tuloksen kohdalla.
 *	Sovellusnäppäin tai Shift+F10: Avaa pikavalikon aktiiviselle hakutuloksen
   kohteelle.
 
+
+## Muutokset versiossa 2.0 ##
+* Ohje on käytettävissä Lisäosien hallinnasta.
+
+## Muutokset versiossa 1.5 ##
+* Käännöksiä päivitetty.
+
 ## Muutokset versiossa 1.4 ##
 *	 Kehitysversion latauslinkki lisätty.
 

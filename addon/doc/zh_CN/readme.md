@@ -19,6 +19,13 @@ Bit Che 是一个简单的、用来搜索 BT 种子文件的工具。您可以�
 ## 快捷键： ##
 *	Application键或者Shift加F10，打开搜索结果项目的上下文菜单。
 
+
+## Changes for 2.0 ##
+* Add-on help is available from the Add-ons Manager.
+
+## Changes for 1.5 ##
+* Translation updates.
+
 ## 版本1.4 ##
 *	 增加开发板的下载链接。
 
