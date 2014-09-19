@@ -28,6 +28,13 @@ az alkalmazás gombot aktiválhatja a fókuszban lévő elem helyi menüjét.
 *	Alkalmazás billentyű vagy shift+f10, megnyitja a kijelölt elem helyi
   menüjét.
 
+
+## Changes for 2.0 ##
+* Add-on help is available from the Add-ons Manager.
+
+## Changes for 1.5 ##
+* Translation updates.
+
 ## Az 1.4 változásai ##
 *	 A fejlesztői letöltési link hozzáadása.
 

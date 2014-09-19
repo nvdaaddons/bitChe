@@ -29,6 +29,14 @@ resultado enfocado.
 *	Tecla Aplicaciones, o shift+f10, abre el menú de contexto para el elemento
   resultados de la búsqueda.
 
+
+## Cambios para 2.0 ##
+* La ayuda del complemento está disponible en el Administrador de
+  Complementos.
+
+## Cambios para 1.5 ##
+* Actualizaciones de traducción.
+
 ## Cambios para 1.4 ##
 *	 Añadido un enlace de descarga para la versión de desarrollo.
 

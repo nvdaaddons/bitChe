@@ -26,6 +26,13 @@ Application key to activate the context menu on the focused result.
 ## Tastenkombinationen: ##
 *	Application key, or shift+f10, open context menu for search result item.
 
+
+## Changes for 2.0 ##
+* Add-on help is available from the Add-ons Manager.
+
+## Changes for 1.5 ##
+* Translation updates.
+
 ## Änderungen bis 1.4 ##
 *	 Downloadlink für die Entwicklerversion hinzugefügt.
 
