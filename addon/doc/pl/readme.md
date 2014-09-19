@@ -28,6 +28,13 @@ klawisza aplikacji aby aktywować menu kontekstowe na podświetlonym wyniku.
 *	Klawisz aplikacji, albo shift+f10, otwiera menu kontekstowe wyniku
   wyszukiwania.
 
+
+## Changes for 2.0 ##
+* Add-on help is available from the Add-ons Manager.
+
+## Changes for 1.5 ##
+* Translation updates.
+
 ## Zmiany dla wersji 1.4 ##
 *	 Dodany link pobierania wersji rozwojowej.
 

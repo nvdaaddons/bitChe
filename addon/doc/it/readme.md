@@ -29,6 +29,13 @@ selezionato.
 *	Tasto Applicazioni, o shift+f10, apre il menu contestuale per il risultato
   di ricerca.
 
+
+## Changes for 2.0 ##
+* Add-on help is available from the Add-ons Manager.
+
+## Changes for 1.5 ##
+* Translation updates.
+
 ## Cambiamenti per 1.4 ##
 *	 Aggiunto il link per il download della versione in sviluppo.
 

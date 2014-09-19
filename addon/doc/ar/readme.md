@@ -26,6 +26,13 @@
 *	استخدام مفتاح Application, أو shift+f10, لفتح قائمة السياق لعنصر نتيجة
   البحث.
 
+
+## Changes for 2.0 ##
+* Add-on help is available from the Add-ons Manager.
+
+## Changes for 1.5 ##
+* Translation updates.
+
 ## مستجدات الإصدار 1.4 ##
 *	 إضافة رابط لتحميل الإصدار التجريبي.
 

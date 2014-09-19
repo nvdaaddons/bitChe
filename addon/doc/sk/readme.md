@@ -22,6 +22,13 @@ menu na vybratom výsledku.
 ## Klávesové skratky ##
 *	Kontextové menu, alebo shift+f10 otvorí kontextovú ponuku.
 
+
+## Changes for 2.0 ##
+* Add-on help is available from the Add-ons Manager.
+
+## Changes for 1.5 ##
+* Translation updates.
+
 ## Zmeny vo verzii 1.4 ##
 *	 pridaný odkaz na vývojovú verziu
 

@@ -30,6 +30,14 @@ résultat mis en focus.
 *	Touche Application, ou maj+f10, pour ouvrir le menu contextuel pour
   l'élément du résultat de la recherche.
 
+
+## Changements pour la version 2.0 ##
+* L'aide du module complémentaire est disponible à partir du Gestionnaire de
+  modules complémentaires.
+
+## Changements pour la version 1.5 ##
+* Mises à jour des traductions.
+
 ## Changements pour la version 1.4 ##
 *	 Ajout du lien pour télécharger la version de développement.
 
