@@ -41,7 +41,7 @@ Bit Che 是一个简单的、用来搜索 BT 种子文件的工具。您可以�
 ## 版本1.0 ##
 *	 初始版本。
 
-[[!tag 开发版 稳定版]]
+[[!tag dev stable]]
 
 [1]: http://addons.nvda-project.org/files/get.php?file=bc
 

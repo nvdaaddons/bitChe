@@ -29,11 +29,11 @@ klawisza aplikacji aby aktywować menu kontekstowe na podświetlonym wyniku.
   wyszukiwania.
 
 
-## Changes for 2.0 ##
-* Add-on help is available from the Add-ons Manager.
+## Zmiany dla wersji 2.0 ##
+* Pomoc dodatku dostępna w managerze dodatków.
 
-## Changes for 1.5 ##
-* Translation updates.
+## Zmiany dla wersji 1.5 ##
+* Aktualizacja tłumaczeń.
 
 ## Zmiany dla wersji 1.4 ##
 *	 Dodany link pobierania wersji rozwojowej.
