@@ -23,11 +23,11 @@ menu na vybratom výsledku.
 *	Kontextové menu, alebo shift+f10 otvorí kontextovú ponuku.
 
 
-## Changes for 2.0 ##
-* Add-on help is available from the Add-ons Manager.
+## Zmeny vo verzii 2.0 ##
+* Návod k doplnku nájdete v menu pomocník.
 
-## Changes for 1.5 ##
-* Translation updates.
+## Zmeny vo verzii 1.5 ##
+* Aktualizované preklady.
 
 ## Zmeny vo verzii 1.4 ##
 *	 pridaný odkaz na vývojovú verziu
