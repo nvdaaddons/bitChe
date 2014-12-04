@@ -29,11 +29,11 @@ az alkalmazás gombot aktiválhatja a fókuszban lévő elem helyi menüjét.
   menüjét.
 
 
-## Changes for 2.0 ##
-* Add-on help is available from the Add-ons Manager.
+## A 2.0 változásai ##
+* A kiegészítő súgója elérhető a Bővítmények kezelése menüből is.
 
-## Changes for 1.5 ##
-* Translation updates.
+## Az 1.5 változásai ##
+* Frissített fordítások
 
 ## Az 1.4 változásai ##
 *	 A fejlesztői letöltési link hozzáadása.
