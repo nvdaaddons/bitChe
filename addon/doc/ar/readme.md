@@ -9,9 +9,9 @@
 
 تعمل هذه الإضافة على تحسين التعامل مع البرنامج. وتضيف الخصائص التالية:
 
-*   Makes the search results list accessible.
-*   Enables you to use the Application key to activate the context menu on
-    the focused result.
+*   تيسير التعامل مع قائمة نتائج البحث.
+*   إمكانية استخدام مفتاح التطبيقات لإظهار قائمة السياق لنتيجة البحث
+    المحددة.
 
 
 ## ملاحظات ##

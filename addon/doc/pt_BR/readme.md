@@ -10,9 +10,9 @@ programa [nesta página][2].
 Este complemento melhora a acessibilidade do aplicativo. Ele adiciona os
 seguintes recursos::
 
-*   Makes the search results list accessible.
-*   Enables you to use the Application key to activate the context menu on
-    the focused result.
+*   Torna acessível a lista de resultados da busca.
+*   Possibilita usar a tecla de aplicações para ativar o menu de contexto no
+    resultado com foco.
 
 
 ## Notas ##
