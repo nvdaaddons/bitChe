@@ -1,7 +1,7 @@
 # Bit Che #
-*	 Autori: Alberto Zanella, Alberto Buffolino, altri collaboratori.
-*	 download [versione stabile][1]
-*	 download [versione in sviluppo][3]
+*   Autori: Alberto Zanella, Alberto Buffolino, altri collaboratori.
+*   download [versione stabile][1]
+*   download [versione in sviluppo][3]
 
 Bit Che è un semplice strumento per ricercare velocemente file sui siti bit
 torrent più popolari.  Puoi ottenere maggiori informazioni su questo
@@ -10,47 +10,47 @@ programma a [questa pagina][2].
 Questo componente aggiuntivo per NVDA migliora l'accessibilità del software,
 aggiungendo le seguenti caratteristiche:
 
-- Rende accessibile la lista dei risultati di ricerca.  - Ti permette di
-usare il tasto Applicazioni per attivare il menu contestuale sul risultato
-selezionato.
+*   Makes the search results list accessible.
+*   Enables you to use the Application key to activate the context menu on
+    the focused result.
 
 
 ## Note ##
-*	 Puoi usare le frecce su e giù per selezionare il risultato di ricerca con
-   cui dovresti interagire.
-*	 Quando la prima ricerca eseguita dopo l'avvio di Bit Che è terminata,
-   verrà focalizzato il primo risultato, anche se potrebbe non essere
-   selezionato correttamente. NVDA annuncerà il risultato selezionato. Usa i
-   soliti comandi o i tasti freccia perassicurarti che sia selezionato
-   l'elemento corretto prima di eseguire altre azioni.
+*   Puoi usare le frecce su e giù per selezionare il risultato di ricerca
+    con cui dovresti interagire.
+*   Quando la prima ricerca eseguita dopo l'avvio di Bit Che è terminata,
+    verrà focalizzato il primo risultato, anche se potrebbe non essere
+    selezionato correttamente. NVDA annuncerà il risultato selezionato. Usa
+    i soliti comandi o i tasti freccia perassicurarti che sia selezionato
+    l'elemento corretto prima di eseguire altre azioni.
 
 
 ## Comandi da tastiera ##
-*	Tasto Applicazioni, o shift+f10, apre il menu contestuale per il risultato
-  di ricerca.
+*   Tasto Applicazioni, o shift+f10, apre il menu contestuale per il
+    risultato di ricerca.
 
 
 ## Changes for 2.0 ##
-* Add-on help is available from the Add-ons Manager.
+*   Add-on help is available from the Add-ons Manager.
 
 ## Changes for 1.5 ##
-* Translation updates.
+*   Translation updates.
 
 ## Cambiamenti per 1.4 ##
-*	 Aggiunto il link per il download della versione in sviluppo.
+*   Aggiunto il link per il download della versione in sviluppo.
 
 ## Cambiamenti per 1.3 ##
-*	 Aggiunta la funzione onInstall, per controllare se è presente una
-   versione più vecchia, e rimuoverla.
+*   Aggiunta la funzione onInstall, per controllare se è presente una
+    versione più vecchia, e rimuoverla.
 
 ## Cambiamenti per 1.2 ##
-*	 Aggiunta la gesture shift+F10, in aggiunta ad applications, utile in VM.
+*   Aggiunta la gesture shift+F10, in aggiunta ad applications, utile in VM.
 
 ## Cambiamenti per 1.1 ##
-*	 Migliorata l'accessibilità della lista risultati e dei suoi elementi.
+*   Migliorata l'accessibilità della lista risultati e dei suoi elementi.
 
 ## Cambiamenti per 1.0 ##
-*	 Versione iniziale.
+*   Versione iniziale.
 
 [[!tag dev stable]]
 

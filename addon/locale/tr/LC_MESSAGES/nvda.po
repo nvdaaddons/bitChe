@@ -5,29 +5,30 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: bitChe 1.4-dev\n"
+"Project-Id-Version: bitChe 2.0\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
-"POT-Creation-Date: 2013-12-10 22:30+0100\n"
-"PO-Revision-Date: 2013-12-21 12:22-0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ar\n"
+"POT-Creation-Date: 2014-09-26 09:35+1000\n"
+"PO-Revision-Date: 2014-11-02 15:11+0200\n"
+"Last-Translator: Çağrı Doğan <cagrid@hotmail.com>\n"
+"Language-Team: TR <cagrid@hotmail.com>\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
 #. Translators: the label of a message box dialog.
 msgid ""
 "You have installed an old and incompatible version of this add-on. Do you "
 "want to uninstall the old version?"
 msgstr ""
-"لقد قمت بتثبيت إصدار قديم أو غير متوافق من هذه الإضافة. هل تريد حذف الإصدار "
-"القديم؟"
+"Bu eklentinin eski ve uyumsuz bir versiyonu kurulu. Eski versiyonu kaldırmak "
+"ister misiniz?"
 
 #. Translators: the title of a message box dialog.
 msgid "Uninstall old add-on"
-msgstr "حذف الإصدار القديم من الإضافة"
+msgstr "Eski eklentiyi kaldır"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
@@ -38,11 +39,6 @@ msgstr "Bit Che"
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 msgid ""
 "Improves the accessibility of Bit Che, a torrent searching client with NVDA."
-msgstr "تحسين التعامل مع Bit Che, منظم البحث في مواقع التورانت مع NVDA."
-
-#~ msgid ""
-#~ "Alberto Zanella <lapostadialberto@gmail.com>, Alberto Buffolino <a."
-#~ "buffolino@gmail.com>, other contributors"
-#~ msgstr ""
-#~ "Alberto Zanella <lapostadialberto@gmail.com>, Alberto Buffolino <a."
-#~ "buffolino@gmail.com>, وآخرون."
+msgstr ""
+"NVDA ile bir torrent arama istemcisi olan  Bit Che uygulamasının "
+"erişilebilirliğini geliştirir."

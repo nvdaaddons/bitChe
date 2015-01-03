@@ -16,14 +16,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 1.6.4\n"
+"X-Generator: Poedit 1.6.8\n"
 
 #. Translators: the label of a message box dialog.
 msgid ""
 "You have installed an old and incompatible version of this add-on. Do you "
 "want to uninstall the old version?"
 msgstr ""
-"Vous avez installé une ancienne et incompatible version de ce module "
+"Vous avez installé une version ancienne et incompatible de ce module "
 "complémentaire. Voulez-vous désinstaller cette ancienne version ?"
 
 #. Translators: the title of a message box dialog.
@@ -31,7 +31,7 @@ msgid "Uninstall old add-on"
 msgstr "Désinstaller l'ancien module complémentaire"
 
 #. Add-on summary, usually the user visible name of the addon.
-#. TRANSLATORS: user visible addon name to be shown on installation and add-on information.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
 msgid "Bit Che"
 msgstr "Bit Che"
 
@@ -43,10 +43,9 @@ msgstr ""
 "Améliore l'accessibilité de Bit Che, un client de recherche de torrents avec "
 "NVDA."
 
-#. Author(s)
-msgid ""
-"Alberto Zanella <lapostadialberto@gmail.com>, Alberto Buffolino <a."
-"buffolino@gmail.com>, other contributors"
-msgstr ""
-"Alberto Zanella <lapostadialberto@gmail.com>, Alberto Buffolino <a."
-"buffolino@gmail.com>, et d'autres contributeurs."
+#~ msgid ""
+#~ "Alberto Zanella <lapostadialberto@gmail.com>, Alberto Buffolino <a."
+#~ "buffolino@gmail.com>, other contributors"
+#~ msgstr ""
+#~ "Alberto Zanella <lapostadialberto@gmail.com>, Alberto Buffolino <a."
+#~ "buffolino@gmail.com>, et d'autres contributeurs."
