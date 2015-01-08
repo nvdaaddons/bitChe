@@ -10,9 +10,9 @@ programma a [questa pagina][2].
 Questo componente aggiuntivo per NVDA migliora l'accessibilità del software,
 aggiungendo le seguenti caratteristiche:
 
-*   Makes the search results list accessible.
-*   Enables you to use the Application key to activate the context menu on
-    the focused result.
+*   l'elenco dei risultati di ricerca è ora accessibile.
+*   Permette di usare il tasto Applicazioni per attivare il menu contestuale
+    sul risultato selezionato.
 
 
 ## Note ##
@@ -30,11 +30,12 @@ aggiungendo le seguenti caratteristiche:
     risultato di ricerca.
 
 
-## Changes for 2.0 ##
-*   Add-on help is available from the Add-ons Manager.
+## Cambiamenti per 2.0 ##
+*   L'aiuto sul componente aggiuntivo è ora disponibile dalla gestione
+    componenti.
 
-## Changes for 1.5 ##
-*   Translation updates.
+## Cambiamenti per 1.5 ##
+*   Aggiornamento nelle traduzioni
 
 ## Cambiamenti per 1.4 ##
 *   Aggiunto il link per il download della versione in sviluppo.
