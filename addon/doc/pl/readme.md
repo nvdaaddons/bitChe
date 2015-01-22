@@ -10,9 +10,9 @@ stronach bit torrent.  Możesz uzyskać więcej informacji o tym programie na
 Ten dodatek NVDA poprawia dostępność oprogramowania. Dodaje następujące
 cechy:
 
-*   Makes the search results list accessible.
-*   Enables you to use the Application key to activate the context menu on
-    the focused result.
+*   - Lista wyników wyszukiwania staje się dostępna.  
+*   - Umożliwia użycie klawisza aplikacji aby aktywować menu kontekstowe na
+    podświetlonym wyniku.
 
 
 ## Uwagi ##

@@ -8,9 +8,8 @@ informácii o programe zistíte na [tejto stránke][2].
 
 Tento doplnok upravuje prístupnosť programu a pridáva tieto funkcie:
 
-*   Makes the search results list accessible.
-*   Enables you to use the Application key to activate the context menu on
-    the focused result.
+*   - zoznam výsledkov hľadania je prístupný.  
+*   - umožňuje aktivovať kontextové menu na vybratom výsledku.
 
 
 ## Poznámky ##
