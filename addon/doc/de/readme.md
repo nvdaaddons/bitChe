@@ -9,9 +9,9 @@ durchsucht. Weitere Informationen über dieses Programm finden Sie [hier][2].
 Diese Erweiterung verbessert die Zugänglichkeit des Programms und fügt
 folgende Verbesserungen hinzu:
 
-*   Makes the search results list accessible.
-*   Enables you to use the Application key to activate the context menu on
-    the focused result.
+*   Macht die Liste der Suchresultate barrierefrei.
+*   Ermöglicht die Benutzung der Anwendungstaste, um das Kontextmenü des
+    ausgewählten Sucheintrags aufzurufen.
 
 
 ## Anmerkungen ##
