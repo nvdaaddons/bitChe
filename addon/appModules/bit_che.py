@@ -4,26 +4,19 @@ import controlTypes
 import api
 import winUser
 from NVDAObjects.IAccessible.sysListView32 import List, ListItem
+from NVDAObjects.IAccessible import IAccessible
 
-class ResultsList(List):
+class DetailsPane(IAccessible):
 
 	def event_gainFocus(self):
 		# the real list of results
-		childList = self.simpleFirstChild
-		# adjust the object properties
-		self.name=childList.name
-		self.role=childList.role
-		self.children=childList
-		# move the focus on the real list
-		childList.setFocus()
-		obj=api.getNavigatorObject()
-		obj.setFocus()
-		api.setFocusObject(obj)
-
-class ResultListItem(ListItem):
-
-	def event_gainFocus(self):
-		super(ResultListItem, self).event_gainFocus()
+		try:
+			childList = self.simpleFirstChild
+		except AttributeError:
+			childList = None
+			return
+		if isinstance(childList, List):
+			childList.setFocus()
 
 	def script_contextMenu(self, gesture):
 		api.moveMouseToNVDAObject(self)
@@ -39,7 +32,7 @@ class ResultListItem(ListItem):
 class AppModule(appModuleHandler.AppModule):
 
 	def chooseNVDAObjectOverlayClasses(self, obj, clsList):
-		if obj.windowClassName == 'ThunderRT6UserControl' and len(obj.children) > 0 and obj.children[0].role == controlTypes.ROLE_LIST:
-			clsList.insert(0, ResultsList)
+		if obj.role == controlTypes.ROLE_PANE:
+			clsList.insert(0, DetailsPane)
 		if not isinstance(obj, ListItem) and obj.role == controlTypes.ROLE_LISTITEM:
 			clsList.insert(0, ResultListItem)
