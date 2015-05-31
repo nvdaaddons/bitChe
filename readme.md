@@ -8,18 +8,18 @@ You can get more information about this program at [this page][2].
 
 This NVDA addon improves the accessibility of the software. It adds the following features:
 
-*   Makes the search results list accessible.
+*   Makes the torrent details list accessible.
 *   Enables you to use the Application key to activate the context menu on the focused result.
 
 
 ## Notes ##
 *   You can use the up and down arrow keys to focus the search result which should be interacted with.
-*   When the first search performed after starting Bit Che is finished, the first result will be focused, though it may not be selected properly. NVDA will speak the selected result. Use the usual commands or the arrow keys to ensure the right item is selected before performing other actions.
-
 
 ## Key Commands ##
 *   Application key, or shift+f10, open context menu for search result item.
 
+##Changes for 3.0 ##
+*   The add-on has been updated to be used with Bit Che 3.5.
 
 ## Changes for 2.0 ##
 *   Add-on help is available from the Add-ons Manager.
