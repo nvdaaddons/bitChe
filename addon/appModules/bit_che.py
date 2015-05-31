@@ -18,6 +18,8 @@ class DetailsPane(IAccessible):
 		if isinstance(childList, List):
 			childList.setFocus()
 
+class ResultListItem(ListItem):
+
 	def script_contextMenu(self, gesture):
 		api.moveMouseToNVDAObject(self)
 		api.setMouseObject(self)
