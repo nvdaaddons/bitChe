@@ -20,7 +20,6 @@ class DetailsPane(IAccessible):
 			childList.setFocus()
 			eventHandler.queueEvent("gainFocus", childList)
 		except AttributeError:
-			childList = None
 			super(DetailsPane, self).event_gainFocus()
 
 class ResultListItem(ListItem):
