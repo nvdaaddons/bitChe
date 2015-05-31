@@ -3,7 +3,10 @@ import appModuleHandler
 import controlTypes
 import api
 import winUser
-from NVDAObjects.IAccessible.sysListView32 import List, ListItem
+import windowUtils
+import eventHandler
+import NVDAObjects.IAccessible
+from NVDAObjects.IAccessible.sysListView32 import ListItem
 from NVDAObjects.IAccessible import IAccessible
 
 class DetailsPane(IAccessible):
@@ -11,12 +14,14 @@ class DetailsPane(IAccessible):
 	def event_gainFocus(self):
 		# the real list of results
 		try:
-			childList = self.simpleFirstChild
+			childList = NVDAObjects.IAccessible.getNVDAObjectFromEvent(
+			windowUtils.findDescendantWindow(api.getForegroundObject().windowHandle, visible=True, className="SysListView32"),
+			winUser.OBJID_CLIENT, 0)
+			childList.setFocus()
+			eventHandler.queueEvent("gainFocus", childList)
 		except AttributeError:
 			childList = None
-			return
-		if isinstance(childList, List):
-			childList.setFocus()
+			super(DetailsPane, self).event_gainFocus()
 
 class ResultListItem(ListItem):
 
