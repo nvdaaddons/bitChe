@@ -1,7 +1,7 @@
 # Bit Che #
 *   Készítők: Alberto Zanella, Alberto Buffolino, más közreműködők
-*   letöltés [stabil verzió][1]
-*   Letöltés [fejlesztői verzió][3]
+*   [stabil verzió][1] letöltése
+*   [fejlesztői verzió][3] letöltése
 
 A Bit Che egy egyszerű program, amivel könnyen kereshet a népszerű torrent
 oldalakon fájlokat. Bővebb információt a szoftverről [ezen az oldalon][2]
