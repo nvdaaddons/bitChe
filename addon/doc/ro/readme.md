@@ -7,8 +7,8 @@ Bit Che este o unealtă simplă care caută rapid site-uri populare bit torrent
 pentru fișiere. Puteți obține mai multe informații despre acest program la
 [această pagină][2].
 
-Acest add-on pentru NVDA îmbunătățește accesibilitatea acestui software. El
-adaugă următoarele caracteristici:
+Acest supliment pentru NVDA îmbunătățește accesibilitatea acestui
+software. El adaugă următoarele caracteristici:
 
 *   Face lista de rezultate ale căutărilor accesibilă.
 *   Vă permite să utilizați tasta Application pentru a activa meniul context
@@ -31,8 +31,8 @@ adaugă următoarele caracteristici:
 
 
 ## Modificări aduse în versiunea 2.0 ##
-*   Ghidul de utilizare al add-on-ului este disponibil în managerul de
-    add-on-uri.
+*   Ghidul de utilizare al suplimentului este disponibil în managerul de
+    suplimente.
 
 ## Modificări aduse în versiunea 1.5 ##
 *   Actualizări ale traducerilor.
