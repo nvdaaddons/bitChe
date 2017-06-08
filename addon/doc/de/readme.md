@@ -52,8 +52,8 @@ folgende Verbesserungen hinzu:
 
 [[!tag dev]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=bc
+[1]: https://addons.nvda-project.org/files/get.php?file=bc
 
 [2]: http://www.convivea.com
 
-[3]: http://addons.nvda-project.org/files/get.php?file=bc-dev
+[3]: https://addons.nvda-project.org/files/get.php?file=bc-dev
