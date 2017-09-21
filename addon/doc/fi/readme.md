@@ -45,7 +45,7 @@ käytettävissä:
 
 ## Muutokset versiossa 1.2 ##
 *   Lisätty sovellusnäppäimen lisäksi näppäinkomento Shift+F10, josta on
-    hyötyä virtuaalikoneessa.
+    hyötyä virtuaalikoneissa.
 
 ## Muutokset versiossa 1.1 ##
 *   Tuloslistan ja sen kohteiden esteettömyyttä paranneltu.
