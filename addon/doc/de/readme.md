@@ -9,7 +9,7 @@ durchsucht. Weitere Informationen über dieses Programm finden Sie [hier][2].
 Diese Erweiterung verbessert die Zugänglichkeit des Programms und fügt
 folgende Verbesserungen hinzu:
 
-*   Macht die Liste der Suchresultate barrierefrei.
+*   Macht die Liste der Suchergebnisse barrierefrei.
 *   Ermöglicht die Benutzung der Anwendungstaste, um das Kontextmenü des
     ausgewählten Sucheintrags aufzurufen.
 
@@ -29,23 +29,23 @@ folgende Verbesserungen hinzu:
 
 
 ## Änderungen in 2.0 ##
-*   Hilfe zuer Erweiterung ist in der Erweiterungsverwaltung verfügbar.
+*   Hilfe zur Erweiterung ist in der Erweiterungsverwaltung verfügbar.
 
-## Änderungen in 1.4 ##
+## Änderungen in 1.5 ##
 *   Übersetzungsaktualisierungen.
 
 ## Änderungen in 1.4 ##
 *   Downloadlink für die Testversion hinzugefügt.
 
 ## Änderungen in 1.3 ##
-*   Eine Funktion zum Überprüfen und Deinstallieren, ob eine ältere Version
-    zurzeit installiert ist, wurde hinzugefügt.
+*   Eine Funktion zum Überprüfen und Deinstallieren, wenn eine ältere
+    Version zurzeit installiert ist, wurde hinzugefügt.
 
 ## Änderungen in 1.2 ##
 *   Umschalt+F10 für Anwendungen hinzugefügt (nützlich in der VM).
 
 ## Änderungen in 1.1 ##
-*   Die Zugänglichkeit der Suchliste und deren Einträge verbessert.
+*   Die Zugänglichkeit der Suchliste und deren Einträge wurde verbessert.
 
 ## Änderungen in 1.0 ##
 *   Erstveröffentlichung.
