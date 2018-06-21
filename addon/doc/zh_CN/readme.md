@@ -7,12 +7,11 @@ Bit Che 是一个简单的、用来搜索 BT 种子文件的工具。您可以�
 
 此 NVDA 的插件可提高该软件的可访问性，添加的特性如下：
 
-*   Makes the search results list accessible.
-*   Enables you to use the Application key to activate the context menu on
-    the focused result.
+*   使搜索结果列表可访问。
+*   支持使用应用程序键激活焦点结果上的上下文菜单。
 
 
-## 请注意： ##
+## 注意： ##
 *   您可以使用“上/下”光标键进行搜索结果的导航。
 *   在启动 Bit Che 后执行首次搜索时，第一个结果将被拒交，它可能未被选择。 NVDA
     将朗读那些选中的结果，在执行任何操作之前，请先使用普通的快捷键或者光标键选择正确的项目。
@@ -22,11 +21,11 @@ Bit Che 是一个简单的、用来搜索 BT 种子文件的工具。您可以�
 *   Application键或者Shift加F10，打开搜索结果项目的上下文菜单。
 
 
-## Changes for 2.0 ##
-*   Add-on help is available from the Add-ons Manager.
+## 版本2.0 ##
+*   插件帮助可从附加组件管理器获得。
 
-## Changes for 1.5 ##
-*   Translation updates.
+## 版本1.5 ##
+*   更新翻译
 
 ## 版本1.4 ##
 *   增加开发板的下载链接。
