@@ -1,4 +1,4 @@
-# Bit Che #
+# Bit Che-bt支持插件 #
 *   作者: Alberto Zanella, Alberto Buffolino和其他贡献者。
 *   下载[稳定版本][1]
 *   下载[开发版][3]
