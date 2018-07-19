@@ -1,7 +1,7 @@
 # Bit Che #
 *   Tác giả: Alberto Zanella, Alberto Buffolino, các cộng tác viên khác.
-*   Tải về [phiên bản stable][1]
-*   Tải về [phiên bản development][3]
+*   Tải về [phiên bản chính thức][1]
+*   Tải về [phiên bản thử nghiệm][3]
 
 Bit Che là một công cụ đơn giản để tìm kiếm các tập tin trên các trang bit
 torrent phổ biến một cách nhanh chóng.  Bạn có thể xem thêm thông tin về
