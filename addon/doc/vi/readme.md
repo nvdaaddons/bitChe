@@ -29,26 +29,26 @@ Addon  này cải thiện tính tiếp cận của phần mềm với các tính
     kết quả tìm kiếm.
 
 
-## Các thay đổi cho 2.0 ##
+## Các thay đổi cho phiên bản 2.0 ##
 *   Thông tin giúp đỡ của Add-on đã có trong phần quản lý Add-ons.
 
-## Các thay đổi cho 1.5 ##
+## Các thay đổi cho phiên bản 1.5 ##
 *   Cập nhật các bản dịch
 
-## Các thay đổi cho 1.4 ##
+## Các thay đổi cho phiên bản 1.4 ##
 *   Thêm liên kết tải cho phiên bản  development.
 
-## Các thay đổi cho 1.3 ##
+## Các thay đổi cho phiên bản 1.3 ##
 *   Thêm hàm onInstall để kiểm tra và gỡ phiên bản cũ nếu có.
 
-## Các thay đổi cho 1.2 ##
+## Các thay đổi cho phiên bản 1.2 ##
 *   Thêm thao tác shift+F10, ngoài phím Application, hữu dụng trong VM.
 
-## Các thay đổi cho 1.1 ##
+## Các thay đổi cho phiên bản 1.1 ##
 *   Cải thiện khả năng tiếp cận của danh sách kết quả tìm kiếm và các thành
     phần của nó.
 
-## Các thay đổi cho 1.0 ##
+## Các thay đổi cho phiên bản 1.0 ##
 *   Phiên bản đầu tiên
 
 [[!tag dev stable]]
