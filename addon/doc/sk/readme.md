@@ -50,6 +50,6 @@ Tento doplnok upravuje prístupnosť programu a pridáva tieto funkcie:
 
 [1]: https://addons.nvda-project.org/files/get.php?file=bc
 
-[2]: http://www.convivea.com
+[2]: https://www.convivea.com
 
 [3]: https://addons.nvda-project.org/files/get.php?file=bc-dev
