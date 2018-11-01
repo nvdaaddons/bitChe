@@ -1,52 +1,56 @@
 # Bit Che #
-*   autori AlbertoZanella, AlbertoBuffoli , drugi saradnici
+*   Autori: Alberto Zanella, Alberto Buffolino, drugi saradnici
 *   preuzmi [stabilnu verziju][1]
-*   preuzmi [verziju u razvoju][3]
+*   preuzmi [verziju u fazi razvoja][3]
 
-bit che je jednostavan dodatak koji pretraжује популарне сајтове за датотеке
-за више информација посетите ову страницу
+Bit Che je jednostavna alatka koja pretražuje torrent sajtove.  Više
+informacija pronađite [ovde][2].
 
-овај додатак побољшава приступачност софтвера
+Ovaj dodatak za NVDA poboljšava pristupačnost softvera. Njime se dobijaju
+sledeće mogućnosti:
 
-*   Makes the search results list accessible.
-*   Enables you to use the Application key to activate the context menu on
-    the focused result.
-
-
-## напомене ##
-*   користите стрелице за истраживање резултата
-*   први резултат претраге можда неће бити правилно селектован
+*   Čini listu sa rezultatima pretrage pristupačnom.
+*   Omogućava korišćenje tastera za aplikacije na trenutno fokusiranom
+    rezultatu.
 
 
-## пречице ##
-*   апплицатионс дугме или схифт+ф10 отвара контекст мени
+## Napomene ##
+*   Koristite strelice da biste se kretali među rezultatima pretrage.
+*   Kada se završi prva potraga nakon pokretanja programa Bit Che, prvi
+    rezultat će biti fokusiran, iako neće biti pravilno selektovan. NVDA će
+    pročitati fokusirani rezultat. Pre nego što preduzmete bilo koju akciju,
+    uverite se da ste odabrali pravi rezultat pretrage.
 
 
-## промене у 2.0 ##
-*   помоћ за додатак доступна из менадзера за додатке
+## Prečice ##
+*   Dugme za aplikacije ili komanda Shift+F10 - otvara se kontekstualni meni
 
-## промене у 1.5 ##
-*   нови језици подржани
 
-## промене у 1.4 ##
-*   додат линк за преузимање развојне верзије
+## Promene u 2.0 ##
+*   Pomoć za dodatak je dostupna iz upravljača dodacima.
 
-## промене у 1.3 ##
-*   провера старије верзије додата
+## Promene u 1.5 ##
+*   Podržani novi jezici.
 
-## промене у 1.2 ##
-*   додата пречица схифт+ф10 као алтернатива за апплицатионс тастер
+## Promene u 1.4 ##
+*   Dodat link za preuzimanje verzije u razvoju.
 
-## промене у 1.1 ##
-*   побољшана приступачност листе резултата
+## Promene u 1.3 ##
+*   Dodata funkcija za proveru i uklanjanje starije verzije.
 
-## промене у 1'0 ##
-*   прва верзија
+## Promene u 1.2 ##
+*   Dodata prečica Shift+F10 kao alternativa za aplikacijsko dugme.
+
+## Promene u 1.1 ##
+*   Poboljšana pristupačnost rezultata pretrage.
+
+## Promene u 1.0 ##
+*   Prva verzija.
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=bc
+[1]: https://addons.nvda-project.org/files/get.php?file=bc
 
-[2]: http://www.convivea.com
+[2]: https://www.convivea.com
 
-[3]: http://addons.nvda-project.org/files/get.php?file=bc-dev
+[3]: https://addons.nvda-project.org/files/get.php?file=bc-dev

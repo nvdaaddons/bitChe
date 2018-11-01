@@ -10,9 +10,9 @@ stronach bit torrent.  Możesz uzyskać więcej informacji o tym programie na
 Ten dodatek NVDA poprawia dostępność oprogramowania. Dodaje następujące
 cechy:
 
-*   Makes the search results list accessible.
-*   Enables you to use the Application key to activate the context menu on
-    the focused result.
+*   - Lista wyników wyszukiwania staje się dostępna.  
+*   - Umożliwia użycie klawisza aplikacji aby aktywować menu kontekstowe na
+    podświetlonym wyniku.
 
 
 ## Uwagi ##
@@ -54,8 +54,8 @@ cechy:
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=bc
+[1]: https://addons.nvda-project.org/files/get.php?file=bc
 
-[2]: http://www.convivea.com
+[2]: https://www.convivea.com
 
-[3]: http://addons.nvda-project.org/files/get.php?file=bc-dev
+[3]: https://addons.nvda-project.org/files/get.php?file=bc-dev

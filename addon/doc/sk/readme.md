@@ -8,9 +8,8 @@ informácii o programe zistíte na [tejto stránke][2].
 
 Tento doplnok upravuje prístupnosť programu a pridáva tieto funkcie:
 
-*   Makes the search results list accessible.
-*   Enables you to use the Application key to activate the context menu on
-    the focused result.
+*   - zoznam výsledkov hľadania je prístupný.  
+*   - umožňuje aktivovať kontextové menu na vybratom výsledku.
 
 
 ## Poznámky ##
@@ -49,8 +48,8 @@ Tento doplnok upravuje prístupnosť programu a pridáva tieto funkcie:
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=bc
+[1]: https://addons.nvda-project.org/files/get.php?file=bc
 
-[2]: http://www.convivea.com
+[2]: https://www.convivea.com
 
-[3]: http://addons.nvda-project.org/files/get.php?file=bc-dev
+[3]: https://addons.nvda-project.org/files/get.php?file=bc-dev

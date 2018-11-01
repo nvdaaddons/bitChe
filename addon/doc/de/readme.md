@@ -9,9 +9,9 @@ durchsucht. Weitere Informationen über dieses Programm finden Sie [hier][2].
 Diese Erweiterung verbessert die Zugänglichkeit des Programms und fügt
 folgende Verbesserungen hinzu:
 
-*   Makes the search results list accessible.
-*   Enables you to use the Application key to activate the context menu on
-    the focused result.
+*   Macht die Liste der Suchergebnisse barrierefrei.
+*   Ermöglicht die Benutzung der Anwendungstaste, um das Kontextmenü des
+    ausgewählten Sucheintrags aufzurufen.
 
 
 ## Anmerkungen ##
@@ -29,31 +29,31 @@ folgende Verbesserungen hinzu:
 
 
 ## Änderungen in 2.0 ##
-*   Hilfe zuer Erweiterung ist in der Erweiterungsverwaltung verfügbar.
+*   Hilfe zur Erweiterung ist in der Erweiterungsverwaltung verfügbar.
 
-## Änderungen in 1.4 ##
+## Änderungen in 1.5 ##
 *   Übersetzungsaktualisierungen.
 
 ## Änderungen in 1.4 ##
 *   Downloadlink für die Testversion hinzugefügt.
 
 ## Änderungen in 1.3 ##
-*   Eine Funktion zum Überprüfen und Deinstallieren, ob eine ältere Version
-    zurzeit installiert ist, wurde hinzugefügt.
+*   Eine Funktion zum Überprüfen und Deinstallieren, wenn eine ältere
+    Version zurzeit installiert ist, wurde hinzugefügt.
 
 ## Änderungen in 1.2 ##
 *   Umschalt+F10 für Anwendungen hinzugefügt (nützlich in der VM).
 
 ## Änderungen in 1.1 ##
-*   Die Zugänglichkeit der Suchliste und deren Einträge verbessert.
+*   Die Zugänglichkeit der Suchliste und deren Einträge wurde verbessert.
 
 ## Änderungen in 1.0 ##
 *   Erstveröffentlichung.
 
-[[!tag dev]]
+[[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=bc
+[1]: https://addons.nvda-project.org/files/get.php?file=bc
 
-[2]: http://www.convivea.com
+[2]: https://www.convivea.com
 
-[3]: http://addons.nvda-project.org/files/get.php?file=bc-dev
+[3]: https://addons.nvda-project.org/files/get.php?file=bc-dev

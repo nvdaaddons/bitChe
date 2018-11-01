@@ -10,14 +10,14 @@ programa [nesta páxina][2].
 Este complemento de NVDA mellora a accesibilidade do programa. Engade as
 seguintes características:
 
-*   Fai que a lista da busca de resultados sexa accesible.
-*   Habilítache a  usar a tecla aplicacións para activar o menú de contexto
-    no resultado enfocado.
+*   Fai que a lista da procura de resultados sexa accesible.
+*   Habilítache para  usar a tecla aplicacións para activar o menú de
+    contexto no resultado enfocado.
 
 
 ## Notas ##
 *   Podes utilizar as teclas de frecha arriba e abaixo para enfocar o
-    resultado da busca ca que se debería interuactuar.
+    resultado da procura coa que se debería interuactuar.
 *   Cando a realización da primeira busca despois de iniciar Bit Che se
     remate, o primeiro resultado enfocaráse, aíndaque poderá non estar
     seleccionado apropriadamente. NVDA falará o resultado
@@ -28,7 +28,7 @@ seguintes características:
 
 ## Teclas de Ordes ##
 *   Tecla aplicacións, ou shift+f10, abre o menú de contexto para o elemento
-    dos resultados da busca.
+    dos resultados da procura.
 
 
 ## Cambios para 2.0 ##
@@ -56,8 +56,8 @@ seguintes características:
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=bc
+[1]: https://addons.nvda-project.org/files/get.php?file=bc
 
-[2]: http://www.convivea.com
+[2]: https://www.convivea.com
 
-[3]: http://addons.nvda-project.org/files/get.php?file=bc-dev
+[3]: https://addons.nvda-project.org/files/get.php?file=bc-dev

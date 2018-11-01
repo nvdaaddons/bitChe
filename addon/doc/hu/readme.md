@@ -1,7 +1,7 @@
 # Bit Che #
 *   Készítők: Alberto Zanella, Alberto Buffolino, más közreműködők
-*   letöltés [stabil verzió][1]
-*   Letöltés [fejlesztői verzió][3]
+*   [stabil verzió][1] letöltése
+*   [fejlesztői verzió][3] letöltése
 
 A Bit Che egy egyszerű program, amivel könnyen kereshet a népszerű torrent
 oldalakon fájlokat. Bővebb információt a szoftverről [ezen az oldalon][2]
@@ -19,13 +19,13 @@ funkciókat nyújtja:
 *   A találati listán a fel és le nyilak segítségével választhatja ki a
     megfelelő elemet.
 *   Amikor az első keresés megtörténik a program elindulása után, az első
-    találati elem lesz a fókuszban, bár lehet hogy ez nem került
+    találati elem lesz a fókuszban, bár lehet, hogy ez nem került
     kijelölésre. Használja az általános billentyűparancsokat vagy a nyíl
-    billentyűket, és bizonyosodjon meg arról hogy a megfelelő elem van
-    kijelölve mielőtt bármilyen egyéb műveletet elvégezne.
+    billentyűket, és bizonyosodjon meg arról, hogy a megfelelő elem van
+    kijelölve, mielőtt bármilyen egyéb műveletet elvégezne.
 
 
-## Billentyű parancsok ##
+## Billentyűparancsok ##
 *   Alkalmazás billentyű vagy shift+f10, megnyitja a kijelölt elem helyi
     menüjét.
 
@@ -40,7 +40,7 @@ funkciókat nyújtja:
 *   A fejlesztői letöltési link hozzáadása.
 
 ## Az 1.3 változásai ##
-*   Mostantól ha egy régebbi verzió telepítve van azt jelzi, és eltávolítja
+*   Mostantól, ha egy régebbi verzió telepítve van, azt jelzi és eltávolítja
     a kiegészítő.
 
 ## Az 1.2 változásai ##
@@ -54,8 +54,8 @@ funkciókat nyújtja:
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=bc
+[1]: https://addons.nvda-project.org/files/get.php?file=bc
 
-[2]: http://www.convivea.com
+[2]: https://www.convivea.com
 
-[3]: http://addons.nvda-project.org/files/get.php?file=bc-dev
+[3]: https://addons.nvda-project.org/files/get.php?file=bc-dev
