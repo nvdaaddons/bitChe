@@ -1,57 +1,57 @@
 # Bit Che #
-*   Autori: Alberto Zanella, Alberto Buffolino, ostali doprinositelji.
-*   preuzmi [stabilnu inačicu][1]
-*   preuzmi [razvojnu inačicu][3]
+*   Autori: Alberto Zanella, Alberto Buffolino, ostali suradnici.
+*   Preuzmi [stabilnu verziju][1]
+*   Preuzmi [razvojnu verziju][3]
 
 Bit Che je alat koji omogućuje pretraživanje popularnih bit torrent web
-stranica za torrentima.  Više informacija o ovom programu možete dobiti na
+stranica za datotekama. Daljnje informacija o ovom programu se nalaze na
 [ovoj stranici][2].
 
-Ovaj NVDA dodatak unaprjeđuje pristupačnost ovog programa. Dodatak dodaje
-slijedeće značajke:
+Ovaj NVDA dodatak poboljšava pristupačnost softvera. Dodatak dodaje
+slijedeće funkcije:
 
-*   Čini popis rezultata pretraživanja dostupnim.
-*   Omogućava vam pritisak aplikacijske tipke na rezultatu na kojem se
-    nalazite.
+*   Omogućuje pristupanje popisu rezultata pretraživanja.
+*   Omogućuje korištenje aplikacijske tipke za aktiviranje kontekstnog
+    izbornika na fokusiranom rezultatu.
 
 
-## napomene ##
-*   Možete koristiti strelice gore i dolje kako biste se mogli fokusirati na
-    rezultat pretrage sa kojim se treba nešto učiniti.
-*   Kada je prva izvedena pretraga uz pomoć bit che završena, prvi će
-    rezultat biti fokusiran, premda on može biti ne označen pravilno. NVDA
-    će izgovoriti označeni rezultat. Koristite uobićajene prečace ili
-    strelice kako biste se uvjerili da je stavka koju tražite označena prije
-    izvađanja bilo koje akcije.
+## Napomene ##
+*   Koristi strelice gore i dolje za fokusiranje rezultata pretrage, s kojim
+    se nešto treba učiniti.
+*   Kad prva izvedena pretraga nakon pokretanja dodatka Bit Che završi, prvi
+    rezultat će biti fokusiran, međutim možda nije pravilno označen. NVDA će
+    izgovoriti označeni rezultat. Koristi uobičajene prečace ili strelice i
+    provjeri da je označena ispravna stavka, prije izvođenja bilo koje
+    radnje.
 
 
 ## Tipkovnički prečaci ##
-*   Aplikacijska tipka, ili shift+F10, otvaraju skočni izbornik za stavku u
-    rezultatima pretrage.
+*   Aplikacijska tipka ili shift+F10, otvori kontekstni izbornik za stavku u
+    rezultatu pretrage.
 
 
 ## Promjene za verziju 2.0 ##
-*   Pomoć za dodatak je dostupna iz upravitelja dodataka.
+*   Pomoć za dodatak je dostupna u upravljaču dodataka.
 
 ## Promjene za verziju 1.5 ##
 *   Ažurirani prijevodi.
 
 ## Promjene za verziju 1.4 ##
-*   Dodan link za preuzimanje testne inačice.
+*   Dodana poveznica za preuzimanje razvojne verzije.
 
-## Promjene za inačicu 1.3 ##
-*   Dodana mogućnost "oninstall", kako bi se mogla obavljati provjera za
-    novijim verzijama i uklanjanje starijih.
+## Promjene za verziju 1.3 ##
+*   Dodana mogućnost "oninstall”. Uklanjanja stariju verziju, ukoliko
+    postoji.
 
-## Promjene za verziju1.2 ##
-*   Dodan dodatni prečac shift+F10 koristan kada se dodatak koristi u
-    virtualnom računalu.
+## Promjene za verziju 1.2 ##
+*   Dodan prečac shift+F10, koristan kad se dodatak koristi u virtualnom
+    računalu.
 
-## Promjene za verziju1.1 ##
-*   Poboljšana pristupačnost popisa i njegovih stavaka.
+## Promjene za verziju 1.1 ##
+*   Poboljšana pristupačnost popisu rezultata i njegovih stavaka.
 
 ## Promjene za verziju 1.0 ##
-*   Prva inačica.
+*   Prva verzija.
 
 [[!tag dev stable]]
 
