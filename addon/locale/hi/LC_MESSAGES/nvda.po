@@ -5,37 +5,38 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: bitChe 1.4-dev\n"
+"Project-Id-Version: bitChe 1.5\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
-"POT-Creation-Date: 2013-12-15 15:35+0100\n"
-"PO-Revision-Date: 2018-11-15 22:18+0100\n"
-"Last-Translator: Grzegorz Zlotowicz <grzezlo@wp.pl>\n"
-"Language-Team: Polish <killer@tyflonet.com>\n"
-"Language: pl\n"
+"POT-Creation-Date: 2014-06-13 02:00+0100\n"
+"PO-Revision-Date: 2019-07-15 08:33+0530\n"
+"Last-Translator: Noelia Ruiz Martínez <nrm1977@gmail.com>\n"
+"Language: hi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.10\n"
+"X-Generator: Poedit 2.2.3\n"
+"Language-Team: \n"
 
 #. Translators: the label of a message box dialog.
 msgid ""
 "You have installed an old and incompatible version of this add-on. Do you "
 "want to uninstall the old version?"
 msgstr ""
-"Na tym komputerze znajduje się stara i niekompatybilna wersja dodatku. Czy "
-"chcesz ją odinstalować?"
+"आपने इस ऐड-ऑन का एक पुराना और असंगत वर्शन  इनस्टॉल किया है। क्या आप पुराने संस्करण को "
+"अलग करना चाहते हैं?"
 
 #. Translators: the title of a message box dialog.
 msgid "Uninstall old add-on"
-msgstr "Odinstaluj stary dodatek"
+msgstr "पुराने ऐड-ऑन को अलग करें"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
 msgid "Bit Che"
-msgstr "Bit Che"
+msgstr "बिट चे"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 msgid ""
 "Improves the accessibility of Bit Che, a torrent searching client with NVDA."
-msgstr "Poprawia dostępność dla NVDA programu Bit Che, wyszukiwarki torrentów."
+msgstr ""
+"बिट चे की पहुंच में सुधार करता है, जो कि एनवीडीए के साथ एक खोज करने वाला क्लाइंट है."

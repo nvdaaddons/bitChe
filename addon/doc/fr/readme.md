@@ -7,8 +7,8 @@ Bit Che est un outil simple qui recherche rapidement les fichiers sur les
 sites populaires de bit torrent. Vous pouvez obtenir plus d'informations sur
 ce programme à [cette page][2].
 
-Ce module complémentaire pour NVDA améliore l'accessibilité du logiciel. Il
-ajoute les fonctionnalités suivantes :
+Cette extension pour NVDA améliore l'accessibilité du logiciel. Elle ajoute
+les fonctionnalités suivantes :
 
 *   Rend la liste de résultats de recherche accessible.
 *   Permet d'utiliser la touche  Application pour activer le menu contextuel
@@ -32,8 +32,8 @@ ajoute les fonctionnalités suivantes :
 
 
 ## Changements pour la version 2.0 ##
-*   L'aide du module complémentaire est disponible à partir du Gestionnaire
-    de modules complémentaires.
+*   L'aide de l'extension est disponible à partir du Gestionnaire
+    d'extensions.
 
 ## Changements pour la version 1.5 ##
 *   Mises à jour des traductions.

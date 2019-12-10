@@ -1,7 +1,7 @@
 # Bit Che #
 *   Autoren: Alberto Zanella, Alberto Buffolino und andere Entwickler.
-*   [Stabile Version][1] herunterladen
-*   [Testversion][3] herunterladen
+*   [Stabile Version herunterladen][1]
+*   [Entwicklerversion herunterladen][3]
 
 Bit Che ist ein Tool, dass BitTorrent-Seiten schnell nach Dateien
 durchsucht. Weitere Informationen über dieses Programm finden Sie [hier][2].
