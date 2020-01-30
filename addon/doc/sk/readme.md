@@ -8,8 +8,8 @@ informácii o programe zistíte na [tejto stránke][2].
 
 Tento doplnok upravuje prístupnosť programu a pridáva tieto funkcie:
 
-*   - zoznam výsledkov hľadania je prístupný.  
-*   - umožňuje aktivovať kontextové menu na vybratom výsledku.
+*   Zoznam výsledkov hľadania je prístupný.  
+*   Umožňuje aktivovať kontextové menu na vybratom výsledku.
 
 
 ## Poznámky ##
@@ -24,7 +24,7 @@ Tento doplnok upravuje prístupnosť programu a pridáva tieto funkcie:
 
 
 ## Zmeny vo verzii 2.0 ##
-*   Návod k doplnku nájdete v menu pomocník.
+*   Návod k doplnku nájdete v správcovi doplnkov.
 
 ## Zmeny vo verzii 1.5 ##
 *   Aktualizované preklady.
@@ -33,15 +33,14 @@ Tento doplnok upravuje prístupnosť programu a pridáva tieto funkcie:
 *   pridaný odkaz na vývojovú verziu
 
 ## Zmeny vo verzii 1.3 ##
-*   pridaná funkcia onInstall, ktorá zaručí kontrolu staršej verzie a jej
-    prípadné odstránenie.
+*   pridaná funkcia, ktorá zaručí kontrolu staršej verzie a jej prípadné
+    odstránenie.
 
 ## Zmeny vo verzii 1.2 ##
-*   pridaná skratka shift+F10 na otvorenie kontextového menu, užitočné vo
-    VM.
+*   pridaná skratka shift+F10 na otvorenie kontextového menu.
 
 ## Zmeny vo verzii 1.1 ##
-*   Zlepšená pristupnosť zoznamu výsledkov a kontextového menu.
+*   Zlepšená prístupnosť zoznamu výsledkov a položiek.
 
 ## Zmeny vo verzii 1.0 ##
 *   Prvé vydanie.
