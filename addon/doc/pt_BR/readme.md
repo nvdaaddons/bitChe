@@ -1,7 +1,7 @@
 # Bit Che #
 *   Autores: Alberto Zanella, Alberto Buffolino, outros colaboradores.
-*   Baixe a [versão estável][1]
-*   Baixe a [versão de desenvolvimento][3]
+*   baixe a [versão estável][1]
+*   baixe a [versão de desenvolvimento][3]
 
 Bit Che é uma ferramenta simples que procura de maneira rápida arquivos em
 sítios populares de bit torrent.  Pode obter mais informações sobre o
@@ -25,7 +25,7 @@ seguintes recursos::
     selecionado antes de executar outras ações.
 
 
-## Teclas de comando: ##
+## Teclas de Comandos ##
 *   Tecla de aplicações, ou shift+f10, abre o menu de contexto para o item
     de resultado de busca.
 
