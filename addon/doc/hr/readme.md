@@ -26,7 +26,7 @@ slijedeće funkcije:
 
 
 ## Tipkovnički prečaci ##
-*   Aplikacijska tipka ili shift+F10, otvori kontekstni izbornik za stavku u
+*   Aplikacijska tipka ili šift+F10, otvori kontekstni izbornik za stavku u
     rezultatu pretrage.
 
 
