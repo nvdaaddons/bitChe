@@ -1,5 +1,5 @@
 # Bit Che #
-*   Készítők: Alberto Zanella, Alberto Buffolino, más közreműködők
+*   Készítők: Alberto Zanella, Alberto Buffolino és más közreműködők
 *   [stabil verzió][1] letöltése
 *   [fejlesztői verzió][3] letöltése
 
@@ -8,26 +8,25 @@ oldalakon fájlokat. Bővebb információt a szoftverről [ezen az oldalon][2]
 talál.
 
 Ez az NVDA kiegészítő javítja a program használhatóságát. A következő
-funkciókat nyújtja:
+funkciókat adja hozzá:
 
 *   Akadálymentessé teszi a találati listát.
-*   Egy kijelölt elemen megnyomva az alkalmazás gombot aktiválhatja a
-    fókuszban lévő elem helyi menüjét.
+*   Egy kijelölt elemen megnyomva a menügombot aktiválhatja a fókuszban lévő
+    elem helyi menüjét.
 
 
 ## Megjegyzések ##
 *   A találati listán a fel és le nyilak segítségével választhatja ki a
     megfelelő elemet.
 *   Amikor az első keresés megtörténik a program elindulása után, az első
-    találati elem lesz a fókuszban, bár lehet, hogy ez nem került
-    kijelölésre. Használja az általános billentyűparancsokat vagy a nyíl
-    billentyűket, és bizonyosodjon meg arról, hogy a megfelelő elem van
-    kijelölve, mielőtt bármilyen egyéb műveletet elvégezne.
+    találati elem lesz a fókuszban, akkor is, ha nem jelölte ki. Használja
+    az általános billentyűparancsokat vagy a nyíl billentyűket, és
+    bizonyosodjon meg arról, hogy a megfelelő elem van kijelölve, mielőtt
+    bármilyen egyéb műveletet elvégezne.
 
 
 ## Billentyűparancsok ##
-*   Alkalmazás billentyű vagy shift+f10, megnyitja a kijelölt elem helyi
-    menüjét.
+*   Menügomb vagy shift+f10, megnyitja a kijelölt elem helyi menüjét.
 
 
 ## A 2.0 változásai ##
@@ -37,7 +36,7 @@ funkciókat nyújtja:
 *   Frissített fordítások
 
 ## Az 1.4 változásai ##
-*   A fejlesztői letöltési link hozzáadása.
+*   A fejlesztői verzió letöltési linkjének hozzáadása.
 
 ## Az 1.3 változásai ##
 *   Mostantól, ha egy régebbi verzió telepítve van, azt jelzi és eltávolítja
@@ -47,14 +46,15 @@ funkciókat nyújtja:
 *   A shift+f10 billentyűparancs hozzáadása
 
 ## Az 1.1 változásai ##
-*   Az eredménylista elérésének javítása.
+*   Javult a keresési eredmények listájának akadálymentes hozzáférhetősége.
 
 ## Az 1.0 változásai ##
 *   Első kiadás
 
 [[!tag dev stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=bc
+[1]: https://addons.nvda-project.org/files/get.php?file=bc[1]:
+https://addons.nvda-project.org/files/get.php?file=bc
 
 [2]: https://www.convivea.com
 
