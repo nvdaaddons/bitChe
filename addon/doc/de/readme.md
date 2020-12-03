@@ -23,7 +23,7 @@ folgende Verbesserungen hinzu:
     ausgewählt ist.
 
 
-## Tastenkombinationen: ##
+## Tastenkombinationen ##
 *   Die Anwendungstaste oder Umschalt+F10 öffnet ein Kontextmenü für die
     Suchergebnisse.
 
