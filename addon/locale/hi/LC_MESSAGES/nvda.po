@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: bitChe 1.5\n"
-"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
 "POT-Creation-Date: 2014-06-13 02:00+0100\n"
 "PO-Revision-Date: 2019-07-15 08:33+0530\n"
 "Last-Translator: Noelia Ruiz Martínez <nrm1977@gmail.com>\n"
