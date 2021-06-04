@@ -52,7 +52,7 @@ ekler:
 ## 1.0 için Değişiklikler ##
 *   İlk versiyon.
 
-[[!tag dev stable]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=bc
 

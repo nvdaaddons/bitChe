@@ -53,7 +53,7 @@ aggiungendo le seguenti caratteristiche:
 ## Cambiamenti per 1.0 ##
 *   Versione iniziale.
 
-[[!tag dev stable]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=bc
 

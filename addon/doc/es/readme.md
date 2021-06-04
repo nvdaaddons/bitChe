@@ -1,7 +1,7 @@
 # Bit Che #
 *   Autores: Alberto Zanella, Alberto Buffolino, otros colaboradores.
-*   Descargar [versión estable][1]
-*   Descargar [versión de desarrollo][3]
+*   descargar [versión estable][1]
+*   descargar [versión de desarrollo][3]
 
 Bit Che es una sencilla herramienta que busca ficheros rápidamente en sitios
 populares de Bit Torrent.  Puedes obtener más información sobre este
@@ -54,7 +54,7 @@ siguientes características:
 ## Cambios para 1.0 ##
 *   Versión inicial.
 
-[[!tag dev stable]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=bc
 

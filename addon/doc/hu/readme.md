@@ -51,7 +51,7 @@ funkciókat adja hozzá:
 ## Az 1.0 változásai ##
 *   Első kiadás
 
-[[!tag dev stable]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=bc[1]:
 https://addons.nvda-project.org/files/get.php?file=bc

@@ -45,7 +45,7 @@ Tento doplnok upravuje prístupnosť programu a pridáva tieto funkcie:
 ## Zmeny vo verzii 1.0 ##
 *   Prvé vydanie.
 
-[[!tag dev stable]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=bc
 

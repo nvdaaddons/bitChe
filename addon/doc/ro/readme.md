@@ -54,7 +54,7 @@ software. El adaugă următoarele caracteristici:
 ## Modificări aduse în versiunea 1.0 ##
 *   Versiunea inițială.
 
-[[!tag dev stable]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=bc
 

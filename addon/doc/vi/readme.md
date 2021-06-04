@@ -51,7 +51,7 @@ Addon  này cải thiện tính tiếp cận của phần mềm với các tính
 ## Các thay đổi cho phiên bản 1.0 ##
 *   Phiên bản đầu tiên
 
-[[!tag dev stable]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=bc
 

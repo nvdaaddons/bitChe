@@ -53,7 +53,7 @@ käytettävissä:
 ## Muutokset versiossa 1.0 ##
 *   Ensimmäinen versio.
 
-[[!tag dev stable]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=bc
 
