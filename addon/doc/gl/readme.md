@@ -1,7 +1,7 @@
 # Bit Che #
 *   Autores: Alberto Zanella, Alberto Buffolino, outros colaboradores.
-*   Descargar [versión estable][1]
-*   Descargar [versión de desenvolvemento][3]
+*   descargar [versión estable][1]
+*   descargar [versión de desenvolvemento][3]
 
 Bit Che é unha ferramenta sinxela  que procura ficheiros rápidamente en
 sitios populares de Bit Torrent.  Podes obter máis información sobre este

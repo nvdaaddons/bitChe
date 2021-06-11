@@ -1,5 +1,5 @@
 # Bit Che #
-*   Auteurs : Alberto Zanella, Alberto Buffolino, et d'autres contributeurs.
+*   Auteurs : Alberto Zanella, Alberto Buffolino, et d'autres contributeurs.
 *   Télécharger [version stable][1]
 *   Télécharger [version de développement][3]
 
@@ -22,13 +22,13 @@ les fonctionnalités suivantes :
     le premier résultat sera mis en focus, bien qu'il puisse ne pas être
     sélectionné correctement. NVDA annoncera le résultat
     sélectionné. Utilisez les commandes habituelles ou les touches de
-    direction pour s'assurer que l'élément correct soit sélectionné avant
+    direction pour vous assurer que l'élément correct soit sélectionné avant
     d'effectuer d'autres actions.
 
 
-## Touches de raccourcis ##
+## Raccourcis clavier ##
 *   Touche Application, ou maj+f10, pour ouvrir le menu contextuel pour
-    l'élément du résultat de la recherche.
+    l'élément de résultat de la recherche.
 
 
 ## Changements pour la version 2.0 ##
