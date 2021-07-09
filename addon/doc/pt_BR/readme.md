@@ -1,25 +1,25 @@
 # Bit Che #
 *   Autores: Alberto Zanella, Alberto Buffolino, outros colaboradores.
 *   baixe a [versão estável][1]
-*   baixe a [versão de desenvolvimento][3]
+*   baixe a [versão em desenvolvimento][3]
 
-Bit Che é uma ferramenta simples que procura de maneira rápida arquivos em
-sítios populares de bit torrent.  Pode obter mais informações sobre o
+Bit Che é uma ferramenta simples que pesquisa de maneira rápida arquivos em
+sítios populares de bit torrent. Pode obter mais informações sobre o
 programa [nesta página][2].
 
 Este complemento melhora a acessibilidade do aplicativo. Ele adiciona os
-seguintes recursos::
+seguintes recursos:
 
-*   Torna acessível a lista de resultados da busca.
+*   Torna acessível a lista de resultados da pesquisa.
 *   Possibilita usar a tecla de aplicações para ativar o menu de contexto no
     resultado com foco.
 
 
 ## Notas ##
-*   Você pode usar as teclas de seta cima e baixo para focar o resultado de
-    busca com o qual deseja interagir.
-*   Quando acaba a primeira busca feita após iniciar o Bit Che, será focado
-    o primeiro resultado, embora ele possa não estar devidamente
+*   Você pode usar as teclas de seta cima e baixo para focalizar o resultado
+    da pesquisa com o qual deseja interagir.
+*   Quando acaba a primeira pesquisa feita após iniciar o Bit Che, será
+    focalizado o primeiro resultado, embora ele possa não estar devidamente
     selecionado. O NVDA falará o resultado selecionado. Use os comandos
     usuais ou as teclas de setas para garantir que o item correto está
     selecionado antes de executar outras ações.
@@ -27,7 +27,7 @@ seguintes recursos::
 
 ## Teclas de Comandos ##
 *   Tecla de aplicações, ou shift+f10, abre o menu de contexto para o item
-    de resultado de busca.
+    de resultado da pesquisa.
 
 
 ## Mudanças na 2.0 ##
