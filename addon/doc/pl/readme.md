@@ -1,6 +1,6 @@
 # Bit Che #
 *   Autorzy: Alberto Zanella, Alberto Buffolino i inni.
-*   Pobierz [wersja stabilna][1]
+*   Pobierz [Wersja stabilna][1]
 *   pobierz [wersja rozwojowa][3]
 
 Bit Che jest prostym narzędziem szybko wyszukującym pliki  na popularnych
@@ -10,7 +10,7 @@ stronach bit torrent.  Możesz uzyskać więcej informacji o tym programie na
 Ten dodatek NVDA poprawia dostępność oprogramowania. Dodaje następujące
 cechy:
 
-*   - Lista wyników wyszukiwania staje się dostępna.  
+*   Sprawia, że lista wyników wyszukiwania jest dostępna.
 *   - Umożliwia użycie klawisza aplikacji aby aktywować menu kontekstowe na
     podświetlonym wyniku.
 
