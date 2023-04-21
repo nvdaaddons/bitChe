@@ -54,10 +54,8 @@ programmet. Det tilføjer følgende funktioner:
 
 [[!tag legacy]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=bc[1]:
-https://addons.nvda-project.org/files/get.php?file=bc
+[1]: https://www.nvaccess.org/addonStore/legacy?file=bc
 
 [2]: https://www.convivea.com
 
-[3]: https://addons.nvda-project.org/files/get.php?file=bc-dev[3]:
-https://addons.nvda-project.org/files/get.php?file=bc-dev
+[3]: https://www.nvaccess.org/addonStore/legacy?file=bc-dev
