@@ -1,7 +1,7 @@
 # Bit Che #
 *   Yazarlar: Alberto Zanella, Alberto Buffolino ve başka katkıda bulunan
     kişiler.
-*   İndir [kararlı sürüm][1]
+*   [kararlı sürümü indir][1]
 *   indir [geliştirme sürümü][3]
 
 Bit Che dosyalar için torrent sayfalarını arayan basit bir araçtır.  [bu
