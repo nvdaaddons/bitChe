@@ -18,6 +18,7 @@ msgstr ""
 "X-Generator: Poedit 1.7.1\n"
 
 #. Translators: the label of a message box dialog.
+#: addon/installTasks.py:14
 msgid ""
 "You have installed an old and incompatible version of this add-on. Do you "
 "want to uninstall the old version?"
@@ -26,16 +27,19 @@ msgstr ""
 "ಹಳೆಯ ಆವೃತ್ತಿ ಅನ್ಇನ್ಸ್ಟಾಲ್ ಮಾಡಲು ಬಯಸುತ್ತೀರಾ?"
 
 #. Translators: the title of a message box dialog.
+#: addon/installTasks.py:16
 msgid "Uninstall old add-on"
 msgstr "ಹಳೆಯ ಆಡ್-ಆನ್ ಅಸ್ಥಾಪಿಸಿ"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
+#: buildVars.py:17
 msgid "Bit Che"
 msgstr "ಬಿಟ್ ಚಿ"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:20
 msgid ""
 "Improves the accessibility of Bit Che, a torrent searching client with NVDA."
 msgstr "ಬಿಟ್ ಚಿ, NVDA ಒಂದು ಟಾರೆಂಟ್ ಹುಡುಕುವ ಕ್ಲೈಂಟ್ ಪ್ರವೇಶ ಸುಧಾರಿಸುತ್ತದೆ."
