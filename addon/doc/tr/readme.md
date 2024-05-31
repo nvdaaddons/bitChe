@@ -50,7 +50,7 @@ ekler:
 *   Sonuçlar listesindeki ögeler için iyileştirilmiş erişilebilirlik.
 
 ## 1.0 için Değişiklikler ##
-*   İlk versiyon.
+*   İlk sürüm.
 
 [[!tag legacy]]
 
